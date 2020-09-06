@@ -1,4 +1,4 @@
-package hierarchy;
+package first.hierarchy;
 
 public class Circle extends Figure{
     private float radius;

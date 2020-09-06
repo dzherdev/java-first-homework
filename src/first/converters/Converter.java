@@ -1,4 +1,4 @@
-package converters;
+package first.converters;
 
 public class Converter {
 

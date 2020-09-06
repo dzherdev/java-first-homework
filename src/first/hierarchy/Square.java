@@ -1,4 +1,4 @@
-package hierarchy;
+package first.hierarchy;
 
 public class Square extends Figure {
 
